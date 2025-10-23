@@ -1,0 +1,18 @@
+html, body {
+    cursor: url(https://windows96.net/system/resource/cursors/default.png), default;
+}
+
+.messageContent_c19a55, textarea:not(disabled), input[type="text"]:not(disabled),
+input[type="email"]:not(disabled), input[type="url"]:not(disabled),
+input[type="number"]:not(disabled), input[type="search"]:not(disabled),
+input[type="tel"]:not(disabled), input[type="password"]:not(disabled),
+[contenteditable]:not(disabled) {
+    cursor: url(https://windows96.net/system/resource/cursors/i-beam.png), text;
+}
+
+a[href]:not(disabled), button:not(disabled), .app__160d8 button:not(disabled),
+div.peopleListItem_cc6179, .mainContent__29444, .childWrapperNoHoverBg__6e9f8.childWrapper__6e9f8,
+.blobContainer_e5445c > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2 > foreignObject > .wrapper__6e9f8,
+div > .wrapper__2ea32.iconVisibility_c69b6d > div > .link__2ea32 {
+    cursor: url(https://windows96.net/system/resource/cursors/pointer.png), pointer !important;
+}
