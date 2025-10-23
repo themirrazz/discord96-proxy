@@ -1,5 +1,6 @@
 # Proxy for Discord port for [Windows 96](https://windows96.net/)
 This allows you to use the Discord desktop app from Windows 96 - even on devices that don't support the desktop app (eg your smart fridge 😳)
+![The Discord desktop app being used on windows96.net](app-demo.png)
 
 ## How to install the proxy
 ### Prerequisites:
